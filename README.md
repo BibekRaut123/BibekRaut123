@@ -13,7 +13,7 @@ I'm Bibek Raut, a passionate coder and explorer based in Sydney. I breathe 💻 
 Explore the galaxies of my current projects:
 
 1. **🚀 Personal Portfolio**
-   -the main purpose of the  Description: Briefly describe the purpose and goals of the project.
+   -the basis purpose of the  Description: Briefly describe the purpose and goals of the project.
    - Technologies: List the technologies, languages, and frameworks used.
    - [Link to Project 1]
 

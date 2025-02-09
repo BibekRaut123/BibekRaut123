@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Bibek , a dynamic IT professional currently working as a Help Desk Officer. With a solid academic foundation from KENT Institute, Sydney Campus, where I earned my Bachelor of Information Technology, I am eager to collaborate on full-stack development projects and network component setups. Regarding my background, I am Originally from Nepal. I combines technical expertise with a knack for humor, often brightening his environment with witty and practical jokes.
+I am Bibek , a dynamic IT professional currently working as a Help Desk Officer. With a solid academic foundation from KENT Institute, Sydney Campus, where I earned my Bachelor of Information Technology, I am eager to collaborate on full-stack development projects and network component setups. Regarding my background, I am Originally from Nepal. I had completed Diploma of software development in the year 2020. I combines technical expertise with a knack for humor, often brightening his environment with witty and practical jokes.
 
 
 # 💻 Tech Stack:

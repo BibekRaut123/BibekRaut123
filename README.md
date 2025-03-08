@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am Bibek , a dynamic IT professional currently working as a Help Desk Officer. With a solid academic foundation from KENT Institute, Sydney Campus, where I earned my Bachelor of Information Technology, I am eager to collaborate on full-stack development projects and network component setups. Regarding my background, I am Originally from Nepal. I had completed Diploma of software development in the year 2020. I combines technical expertise with a knack for humor, often brightening his environment with witty and practical jokes.
+My name is Bibek. I am a passionate Full-Stack Developer and IT Professional with expertise in MERN Stack (MongoDB, Express.js, React.js, Node.js) and network components. With a Bachelor of Information Technology (BIT) from KENT Institute, Sydney, I have experience working as a Help Desk Officer, troubleshooting technical issues and enhancing system efficiency. My skills extend to API development, system administration, and IT infrastructure, allowing me to develop scalable and efficient web applications.
+
+I am always eager to collaborate on full-stack development projects and stay updated with modern web technologies. My problem-solving mindset, combined with technical expertise, helps me deliver robust and user-friendly solutions. Whether it's building dynamic applications or optimizing network performance. 
+
+I am committed to contributing effectively to the IT field. Feel free to connect for collaboration or tech discussions. I combines technical expertise with a knack for humor, often brightening his environment with witty and practical jokes.
 
 
 # 💻 Tech Stack:
